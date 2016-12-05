@@ -33,16 +33,37 @@ Very good teamwork and leardship skills
 
 ## Work experiences
 
-### May 2015 to now : Site Reliability Engineer at Criteo (Advertising, Paris)
+### September 2016 to now : Site Reliability Engineer Lead at Smart AdServer (Advertising, Paris)
 
-As member of the SRE - Storage team, my mission is to provide services for applications which require high performance, high availability and scalable databases.
+* Enhance availability, performance, and overall reliability for production services
+* Promote the generalization of automation tools like Ansible
+* Designed and installed the metrology service (Prometheus/Grafana) to gain visibility on critical production metrics
+
+### May 2015 to September 2016 : Site Reliability Engineer at Criteo (Advertising, Paris)
+
+As member of the SRE, NoSQL team, my mission was to provide backend services for applications requiring high performance, availability and scalability.
 
 **Key technologies**
 
+* Graphite
 * Couchbase
 * Cassandra
 * ElasticSearch
 * RabbitMQ
+
+**Technical Environment**
+
+* 20000 servers dispatched in 7 datacenters around the world
+* Configuration management and automation with Chef
+* Continuous integration and delivery helped by Jenkins
+
+**Main achievments**
+
+* Restructured ElasticSearch clusters by optimizing configurations and adding dedicated nodes, in order to support the massive growth
+* Taught other teams about using ElasticSearch and Kibana
+* Worked on Couchbase clusters migrations
+* Wrote the Cassandra to HDFS backup tool
+* Performed frequent oncall duties for critical high availability services
 
 ### March 2013 to April 2015 : Senior System Administrator at Pretty Simple (video games, Paris)
 
@@ -54,7 +75,7 @@ My primary mission was to define the architecture of production environment and 
 * 100 millions Criminal Case players in the world, including 10 millions daily active users
 * 150 servers located in the United States in datacenters (Seattle, San Jose, Dallas)
 
-**Used technologies:**
+**Used technologies :**
 
 * Ubuntu Linux operating system
 * Nginx web server with PHP-FPM
