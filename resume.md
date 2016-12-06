@@ -10,12 +10,12 @@
 > France
 
 > Sex: Male<br>
-> Date of birth : 11 April 1979<br>
+> Date of birth: 11 April 1979<br>
 > Marital status: Single
 
 ## Objective
 
-**Looking for a DevOps position that brings everyday new technical challenges.**
+**Looking for a DevOps position that brings me new technical challenges everyday**
 
 ## Summary
 
@@ -27,7 +27,7 @@ Determinated, passionate, hard working individual with unyielding self motivate
 
 Tenacious problem solver, able to quickly grasp complex systems and identify opportunities for improvements and resolution of critical issues
 
-Very good teamwork and leardship skills
+Very good teamwork and leadership skills
 
 ![My skills](skills.png)
 
@@ -36,20 +36,20 @@ Very good teamwork and leardship skills
 ### September 2016 to now : Site Reliability Engineer Lead at Smart AdServer (Advertising, Paris)
 
 * Enhance availability, performance, and overall reliability for production services
-* Promote the generalization of automation tools like Ansible
-* Designed and installed the metrology service (Prometheus/Grafana) to gain visibility on critical production metrics
+* Promote the generalization of automation tools as Ansible
+* Designed and set up the metrology service (Prometheus/Grafana) to gain visibility on critical production metrics, anticipate future issues, and allowing capacity planning
 
 ### May 2015 to September 2016 : Site Reliability Engineer at Criteo (Advertising, Paris)
 
-As member of the SRE, NoSQL team, my mission was to provide backend services for applications requiring high performance, availability and scalability.
+As member of the SRE NoSQL team, my mission was to provide backends for applications requiring high performance, availability and scalability.
 
 **Key technologies**
 
-* Graphite
 * Couchbase
 * Cassandra
 * ElasticSearch
 * RabbitMQ
+* Graphite
 
 **Technical Environment**
 
@@ -57,27 +57,27 @@ As member of the SRE, NoSQL team, my mission was to provide backend services for
 * Configuration management and automation with Chef
 * Continuous integration and delivery helped by Jenkins
 
-**Main achievments**
+**Main achievements**
 
 * Restructured ElasticSearch clusters by optimizing configurations and adding dedicated nodes, in order to support the massive growth
-* Taught other teams about using ElasticSearch and Kibana
+* Taught other teams about effectively using ElasticSearch and Kibana
 * Worked on Couchbase clusters migrations
-* Wrote the Cassandra to HDFS backup tool
+* Wrote the Cassandra to HDFS backup tool (https://github.com/criteo/cassback)
 * Performed frequent oncall duties for critical high availability services
 
 ### March 2013 to April 2015 : Senior System Administrator at Pretty Simple (video games, Paris)
 
 My primary mission was to define the architecture of production environment and make it evolve according to the volume of users and new features developed by technical teams.
 
-**Some numbers :**
+**Some numbers**
 
 * 3 games including Criminal Case (Facebook Game of year 2013)
 * 100 millions Criminal Case players in the world, including 10 millions daily active users
-* 150 servers located in the United States in datacenters (Seattle, San Jose, Dallas)
+* 150 servers located in the United States in several datacenters (Seattle, San Jose, Dallas, Amsterdam)
 
-**Used technologies :**
+**Used technologies**
 
-* Ubuntu Linux operating system
+* Ubuntu Linux
 * Nginx web server with PHP-FPM
 * MySQL database in master/slave replication mode
 * Redis key-value datastore
@@ -86,7 +86,7 @@ My primary mission was to define the architecture of production environment and 
 * Zabbix/Collectd/Facette monitoring
 * Automation based on Ansible
 
-This environment must be up everyday, 24h/24, so I was regularly on call.
+Since this environment must be up everyday, 24h/24, I was regularly on call.
 
 Moreover, building the infrastructure was not possible without the help of dev teams. That's why I was often involved working with them.
 
@@ -126,7 +126,7 @@ This project conducted under my direction was to merge the 2 existent datacenter
 * Install and configure production servers: 900 Debian GNU/Linux servers spread in 2 datacenters
 * Manage MySQL databases (100 servers), with high availability and large volumes problematics
 * Administer the Neolane solution which have to send 1 million emails to users everyday
-* Deploy in production new releases
+* Deploy new releases into production
 * On call (1 week per month)
 * Write technical documentation
 
@@ -167,6 +167,6 @@ Designed and developed the internal business applications, in a C++ / DB2 / Lotu
 
 ## Education
 
-* **2002 :** Master in computer science at the University of Amiens, France
-* **2000 :** DUT (two-years university degree in technology) at the university of Amiens, France
-* **1997 :** Baccalauréat (French secondary school diploma), science major
+* **2002** Master in computer science at the University of Amiens, France
+* **2000** DUT (two-years university degree in technology) at the university of Amiens, France
+* **1997** Baccalauréat (French secondary school diploma), science major
