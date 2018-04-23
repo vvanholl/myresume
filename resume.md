@@ -33,7 +33,29 @@ Very good teamwork and leadership skills
 
 ## Work experiences
 
-### September 2016 to now : Site Reliability Engineer Lead at Smart AdServer (Advertising, Paris)
+### April 2017 to now : Senior Platform Engineer at ContentSquare (UX analytics, Paris)
+
+**Everyday**
+
+* Technical support
+* Automate things
+* Investigate and fix performances issues
+* Develop reliable core components for other teams
+* Oncall duties for critical high availability services
+
+**Technical Environment**
+
+* AWS cloud services: More than 800 EC2 instances and heavy usage of ECS, RDS, VPC, Route 53, CloudFront, IAM
+* Configuration management and automation made with Ansible and Terraform
+* Continuous integration and delivery done with Jenkins helped by StackStorm and Artifactory
+
+**Main achievements**
+
+* Improved overall reliability on ElasticSearch clusters
+* Provided tooling to automate, manage and monitor ElasticSearch clusters
+* Designed and implemented the new CI/CD supply chain
+
+### September 2016 to February 2017 : Site Reliability Engineer Lead at Smart AdServer (Advertising, Paris)
 
 * Enhance availability, performance, and overall reliability for production services
 * Promote the generalization of automation tools as Ansible
