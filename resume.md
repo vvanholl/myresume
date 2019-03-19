@@ -33,7 +33,24 @@ Very good teamwork and leadership skills
 
 ## Work experiences
 
-### April 2017 to now : Senior Platform Engineer at ContentSquare (UX analytics, Paris)
+### October 2018 to now: Platform Tech Lead at ContentSquare (UX analytics, Paris)
+
+As a technical lead, my missions are now more centered about monitoring and alerting.
+
+**My main objective is to give my company the framework that allows:**
+
+* To be the most proactive as possible on production issues
+* Anticipate infrastructure scale up
+* Save time on incident investigation and resolution
+
+**This pass by many actions:**
+
+* Deal with the legacy monitoring stack:  Telegraf/InfluxDB/Kapacitor
+* Migrate to a new monitoring stack: Prometheus/Alert manager
+* Share with other teams monitoring best practices.
+* Write and apply the on call process
+
+### April 2017 to October 2018 : Senior Platform Engineer at ContentSquare (UX analytics, Paris)
 
 **Everyday**
 
@@ -45,9 +62,9 @@ Very good teamwork and leadership skills
 
 **Technical Environment**
 
-* AWS cloud services: More than 800 EC2 instances and heavy usage of ECS, RDS, VPC, Route 53, CloudFront, IAM
+* AWS cloud services: More than 1000 EC2 instances and heavy usage of ECS, RDS, VPC, Route 53, CloudFront, IAM
 * Configuration management and automation made with Ansible and Terraform
-* Continuous integration and delivery done with Jenkins helped by StackStorm and Artifactory
+* Continuous integration and delivery with Jenkins helped by StackStorm/Artifactory
 
 **Main achievements**
 
