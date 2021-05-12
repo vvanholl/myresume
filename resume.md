@@ -1,17 +1,19 @@
 # Vincent VAN HOLLEBEKE
 
-![photo](photo.png)
+![photo](https://vvanholl.github.io/myresume/photo.png)
 
-> vincent@compuscene.org<br>
-> +33 6 52 06 65 84
+```console
+vincent@compuscene.org
++33 6 52 06 65 84
 
-> 50 rue du marais<br>
-> 60600 Breuil Le Vert<br>
-> France
+50 rue du marais
+60600 Breuil Le Vert
+France
 
-> Sex: Male<br>
-> Date of birth: 11 April 1979<br>
-> Marital status: Single
+Sex: Male
+Date of birth: 11 April 1979
+Marital status: Single
+```
 
 ## Objective
 
@@ -29,15 +31,47 @@ Tenacious problem solver, able to quickly grasp complex systems and identify opp
 
 Very good teamwork and leadership skills
 
-![My skills](skills.png)
+![My skills](https://vvanholl.github.io/myresume/skills.png)
 
 ## Work experiences
 
-### October 2018 to now: Platform Tech Lead at ContentSquare (UX analytics, Paris)
+### July 2020 to now : Senior DevOps Engineer at Meero (photography, Paris)
 
-As a technical lead, my missions are now more centered about monitoring and alerting.
+**Technical Environment**
 
-**My main objective is to give my company the framework that allows:**
+In a multi-account AWS environment, my mission is to provide the most reliable platform as possible and assist developers by giving them advices and the tools they need.
+
+**Technical Environment**
+
+* AWS cloud services: usage of EC2, ECS, RDS, VPC, Route 53, CloudFront, IAM
+* Automation is made with Ansible, Terraform and Spinnaker
+* Continuous integration and delivery with Jenkins
+
+**Main achievements**
+
+* Design and deploy the next Meero infrastructure around ECS
+* Migrate workloads from EC2 instances to ECS clusters
+* Provide the stack allowing dynamic environments
+
+### May 2020 to July 2020 : Senior DevOps Engineer at Ubble (security, Paris)
+
+With high security and privacy constraints, my job consisted to build the technical platform around Kubernetes/3DS Outscale.
+
+### September 2019 to May 2020 : Senior DevOps Engineer at AdAlong (marketing, Paris)
+
+In a Google Cloud/Kubernetes environment my mission was to provide the right infrastructure for the company needs.
+
+* Conceived and deployed the infrastructure with Terraform
+* Deployed Kubernetes clusters using autoscaling and dedicated node pools
+* Migrated deployments from hand made to custom HELM charts
+* Moved the CI to GitLab
+* Enforced platform security
+
+### October 2018 to September 2019 : Platform Tech Lead at ContentSquare (UX analytics, Paris)
+
+As a technical lead, my mission was centered about monitoring and alerting.
+
+**My main objective was to give my company the framework that allows:**
 
 * To be the most proactive as possible on production issues
 * Anticipate infrastructure scale up
@@ -72,13 +106,13 @@ As a technical lead, my missions are now more centered about monitoring and aler
 * Provided tooling to automate, manage and monitor ElasticSearch clusters
 * Designed and implemented the new CI/CD supply chain
 
-### September 2016 to February 2017 : Site Reliability Engineer Lead at Smart AdServer (Advertising, Paris)
+### September 2016 to February 2017 : Site Reliability Engineer Lead at Smart AdServer (advertising, Paris)
 
 * Enhance availability, performance, and overall reliability for production services
 * Promote the generalization of automation tools as Ansible
 * Designed and set up the metrology service (Prometheus/Grafana) to gain visibility on critical production metrics, anticipate future issues, and allowing capacity planning
 
-### May 2015 to September 2016 : Site Reliability Engineer at Criteo (Advertising, Paris)
+### May 2015 to September 2016 : Site Reliability Engineer at Criteo (advertising, Paris)
 
 As member of the SRE NoSQL team, my mission was to provide backends for applications requiring high performance, availability and scalability.
 
