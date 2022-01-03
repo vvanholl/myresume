@@ -35,7 +35,9 @@ Very good teamwork and leadership skills
 
 ## Work experiences
 
-### July 2020 to now : Senior DevOps Engineer at Meero (photography, Paris)
+### November 2021 to now : Senior Site Reliability Engineer at Algolia (Paris)
+
+### July 2020 to November 2021 : Senior DevOps Engineer at Meero (photography, Paris)
 
 **Technical Environment**
 
